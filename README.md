@@ -1,4 +1,4 @@
-# 🔐 Zscaler Private Access (ZPA): Architecture, Components & Zero Trust Application Access
+# Zscaler Private Access (ZPA): Architecture, Components & Zero Trust Application Access
 
 **Author:** Aditya Bhatt  
 **Domain:** Cloud Security | Zero Trust | Enterprise Network Security
