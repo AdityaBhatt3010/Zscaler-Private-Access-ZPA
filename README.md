@@ -126,7 +126,7 @@ The accompanying architecture diagram illustrates a conceptual deployment spanni
 
 ![Zscaler Private Access Architecture](ZPA/ZPA_Architecture.png)  <br/>
 
-*Figure 2: A conceptual representation of ZIA's control plane, distributed service edges, user traffic, and logging infrastructure.*
+*Figure 2: A conceptual representation of ZPA's control plane, distributed service edges, user traffic, and logging infrastructure.*
 
 ### US West — Northern California
 
